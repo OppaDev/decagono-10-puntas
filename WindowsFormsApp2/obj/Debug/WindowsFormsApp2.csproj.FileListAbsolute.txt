@@ -1,0 +1,112 @@
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FrmMenu.resources
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmSquare.resources
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmTriangle.resources
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmPentagon.resources
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmHexagon.resources
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmHeptagon.resources
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmOctagon.resources
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmNonagon.resources
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmDecagon.resources
+C:\Users\LENOVO1\Desktop\archivos U\Quinto Semestre\Computacion_Grafica\Proyectos_visual\Poligonos_regulares\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmUndecagon.resources
+C:\Users\ediso\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Regular_polygons\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ediso\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Regular_polygons\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ediso\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Regular_polygons\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ediso\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\ediso\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmDecagon.resources
+C:\Users\ediso\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ediso\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ediso\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ediso\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ediso\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\Regular_polygons\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmDecagon.resources
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmDecagon.resources
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\ESPE CT 2021 - MAR 2022\COMP GRAFICA\DeberesGraficaGrp12\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\COMP GRAFICA\Grupo12_TrabajosPrimerParcial\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\COMP GRAFICA\Grupo12_TrabajosPrimerParcial\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\COMP GRAFICA\Grupo12_TrabajosPrimerParcial\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\COMP GRAFICA\Grupo12_TrabajosPrimerParcial\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\COMP GRAFICA\Grupo12_TrabajosPrimerParcial\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\COMP GRAFICA\Grupo12_TrabajosPrimerParcial\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmDecagon.resources
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\COMP GRAFICA\Grupo12_TrabajosPrimerParcial\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\COMP GRAFICA\Grupo12_TrabajosPrimerParcial\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\COMP GRAFICA\Grupo12_TrabajosPrimerParcial\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\COMP GRAFICA\Grupo12_TrabajosPrimerParcial\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\COMP GRAFICA\Grupo12_TrabajosPrimerParcial\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmDecagon.resources
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\Documents\ESPE\Malla Nueva\Computacion Grafica\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Asus\Documents\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\Computacion Grafica\Parcial 1\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Asus\Documents\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\Computacion Grafica\Parcial 1\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Asus\Documents\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\Computacion Grafica\Parcial 1\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Asus\Documents\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\Computacion Grafica\Parcial 1\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\Computacion Grafica\Parcial 1\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Documents\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\Computacion Grafica\Parcial 1\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmDecagon.resources
+C:\Users\Asus\Documents\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\Computacion Grafica\Parcial 1\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Asus\Documents\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\Computacion Grafica\Parcial 1\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\Computacion Grafica\Parcial 1\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\Computacion Grafica\Parcial 1\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Asus\Documents\QUINTO SEMESTRE\COMPUTACIÓN GRÁFICA\Computacion Grafica\Parcial 1\CasoEstudio1.3\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+L:\Espe V\Grafica\Unidad1\proyecto\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+L:\Espe V\Grafica\Unidad1\proyecto\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+L:\Espe V\Grafica\Unidad1\proyecto\WinAppDecagonStar\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+L:\Espe V\Grafica\Unidad1\proyecto\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+L:\Espe V\Grafica\Unidad1\proyecto\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+L:\Espe V\Grafica\Unidad1\proyecto\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+L:\Espe V\Grafica\Unidad1\proyecto\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+L:\Espe V\Grafica\Unidad1\proyecto\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+L:\Espe V\Grafica\Unidad1\proyecto\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+L:\Espe V\Grafica\Unidad1\proyecto\WinAppDecagonStar\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frm_del_decagono.resources
+C:\Users\MICHU\Desktop\Nueva carpeta\WinAppEstrellaDecagono\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MICHU\Desktop\Nueva carpeta\WinAppEstrellaDecagono\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MICHU\Desktop\Nueva carpeta\WinAppEstrellaDecagono\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MICHU\Desktop\Nueva carpeta\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\MICHU\Desktop\Nueva carpeta\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frm_del_decagono.resources
+C:\Users\MICHU\Desktop\Nueva carpeta\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MICHU\Desktop\Nueva carpeta\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MICHU\Desktop\Nueva carpeta\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MICHU\Desktop\Nueva carpeta\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MICHU\Desktop\Nueva carpeta\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MICHU\Desktop\CorreccionExamen\WinAppEstrellaDecagono\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MICHU\Desktop\CorreccionExamen\WinAppEstrellaDecagono\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MICHU\Desktop\CorreccionExamen\WinAppEstrellaDecagono\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MICHU\Desktop\CorreccionExamen\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\MICHU\Desktop\CorreccionExamen\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frm_del_decagono.resources
+C:\Users\MICHU\Desktop\CorreccionExamen\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MICHU\Desktop\CorreccionExamen\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MICHU\Desktop\CorreccionExamen\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MICHU\Desktop\CorreccionExamen\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MICHU\Desktop\CorreccionExamen\WinAppEstrellaDecagono\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
